@@ -69,6 +69,7 @@ Disfruto mucho de programar, trabajar en equipo y trabajar para que un proyecto 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="33%">
 
 <br/>  
 
