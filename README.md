@@ -4,7 +4,7 @@
   
   
 
-<a href='https://postimg.cc/ZCMx251C' target='_blank'><img src='https://i.postimg.cc/x10pkk5y/Logo-JANLORODEV.jpg' border='0' alt='Logo-JANLORODEV'/></a>
+<img src="https://i.postimg.cc/x10pkk5y/Logo-JANLORODEV.jpg" align="left" height="540" width="960" />  
   
 
 
