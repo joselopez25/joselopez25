@@ -1,7 +1,10 @@
+
+
 ### Hola, soy Jose Lopez (JoanloroDev)  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+  
+  
+
+![](https://drive.google.com/file/d/16UUz6kfV5IQz3b0WiXsqFdQxkt45GARd/view?usp=sharing)  
   
 
 
