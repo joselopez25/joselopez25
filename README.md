@@ -70,7 +70,7 @@ Disfruto mucho de programar, trabajar en equipo y trabajar para que un proyecto 
 </div>
 
 
-
+<br/>  
 
 ## Connect with me  
 <div align="center">
