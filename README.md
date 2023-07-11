@@ -73,11 +73,6 @@ Disfruto mucho de programar, trabajar en equipo y trabajar para que un proyecto 
 
 
 
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jose-antonio-lopez-rocha-61b5581b0/" target="_blank">
@@ -89,30 +84,7 @@ Disfruto mucho de programar, trabajar en equipo y trabajar para que un proyecto 
 </div>  
   
 
-<br/>  
 
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
